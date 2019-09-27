@@ -1,0 +1,13 @@
+$background : #ff0b32;
+$background2 : #1fc0ff;
+//test
+body{
+  color: red;
+  background: $background2;
+}
+
+p{
+  color: red;
+  transform: rotate(10deg);
+  background: $background;
+}
